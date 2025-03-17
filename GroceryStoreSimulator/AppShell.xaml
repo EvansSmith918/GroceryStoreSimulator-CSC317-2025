@@ -6,10 +6,27 @@
     xmlns:local="clr-namespace:GroceryStoreSimulator"
     Shell.FlyoutBehavior="Disabled"
     Title="GroceryStoreSimulator">
-
-    <ShellContent
-        Title="Home"
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" />
-
+    
+    <TabBar>
+        <ShellContent
+            Title="Home"
+            ContentTemplate="{DataTemplate local:HomePage}"
+            Route="HomePage" />
+        <ShellContent
+            Title="Aisles"
+            ContentTemplate="{DataTemplate local:AislePage}"
+            Route="AislePage" />
+        <ShellContent
+            Title="Items"
+            ContentTemplate="{DataTemplate local:ItemPage}"
+            Route="ItemPage" />
+        <ShellContent
+            Title="Cart"
+            ContentTemplate="{DataTemplate local:CartPage}"
+            Route="CartPage" />
+        <ShellContent
+            Title="Settings"
+            ContentTemplate="{DataTemplate local:SettingsPage}"
+            Route="SettingsPage" />
+    </TabBar>
 </Shell>
