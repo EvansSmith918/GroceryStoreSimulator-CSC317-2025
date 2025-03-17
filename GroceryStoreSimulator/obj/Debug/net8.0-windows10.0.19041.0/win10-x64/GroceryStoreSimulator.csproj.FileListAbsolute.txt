@@ -1,0 +1,12 @@
+D:\git\GroceryStoreSimulator\GroceryStoreSimulator-CSC317-2025\GroceryStoreSimulator\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\GroceryStoreSimulator.csproj.AssemblyReference.cache
+D:\git\GroceryStoreSimulator\GroceryStoreSimulator-CSC317-2025\GroceryStoreSimulator\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+D:\git\GroceryStoreSimulator\GroceryStoreSimulator-CSC317-2025\GroceryStoreSimulator\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+D:\git\GroceryStoreSimulator\GroceryStoreSimulator-CSC317-2025\GroceryStoreSimulator\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+D:\git\GroceryStoreSimulator\GroceryStoreSimulator-CSC317-2025\GroceryStoreSimulator\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+D:\git\GroceryStoreSimulator\GroceryStoreSimulator-CSC317-2025\GroceryStoreSimulator\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+D:\git\GroceryStoreSimulator\GroceryStoreSimulator-CSC317-2025\GroceryStoreSimulator\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+D:\git\GroceryStoreSimulator\GroceryStoreSimulator-CSC317-2025\GroceryStoreSimulator\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+D:\git\GroceryStoreSimulator\GroceryStoreSimulator-CSC317-2025\GroceryStoreSimulator\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+D:\git\GroceryStoreSimulator\GroceryStoreSimulator-CSC317-2025\GroceryStoreSimulator\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\git\GroceryStoreSimulator\GroceryStoreSimulator-CSC317-2025\GroceryStoreSimulator\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+D:\git\GroceryStoreSimulator\GroceryStoreSimulator-CSC317-2025\GroceryStoreSimulator\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\GroceryStoreSimulator.GeneratedMSBuildEditorConfig.editorconfig
