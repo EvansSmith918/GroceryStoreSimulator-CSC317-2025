@@ -4,15 +4,8 @@ public partial class SettingsPage : ContentPage
     public SettingsPage()
     {
         InitializeComponent();
-        NameEntry.Text = Preferences.Get("Name", "");
-        CashEntry.Text = Preferences.Get("CashInHand", "0");
-        DarkModeSwitch.IsToggled = Preferences.Get("IsDarkMode", false);
-    }
-
-    private void OnDarkModeToggled(object sender, ToggledEventArgs e)
-    {
-        Preferences.Set("IsDarkMode", e.Value);
-        // Add theme logic later
+        NameEntry.Text = Preferences.Get("Name", "Guest");
+        CashEntry.Text = Preferences.Get("CashInHand", "0.00");
     }
 
     protected override void OnDisappearing()

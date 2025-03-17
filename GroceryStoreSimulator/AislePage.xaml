@@ -1,1 +1,6 @@
-
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GroceryStoreSimulator.AislePage"
+             Title="Aisles">
+    <Label Text="Aisles Coming Soon" VerticalOptions="Center" HorizontalOptions="Center" />
+</ContentPage>

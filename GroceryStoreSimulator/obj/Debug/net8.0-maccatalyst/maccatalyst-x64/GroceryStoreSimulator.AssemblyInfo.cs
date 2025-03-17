@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GroceryStoreSimulator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+7f8de6dd5c2b69327fdbbf9ebaf741575f6da3ba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+38491e94f6956719923c769221b1d7b4b9addf2a")]
 [assembly: System.Reflection.AssemblyProductAttribute("GroceryStoreSimulator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GroceryStoreSimulator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

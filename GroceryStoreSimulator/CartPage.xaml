@@ -1,1 +1,6 @@
-
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GroceryStoreSimulator.CartPage"
+             Title="Cart">
+    <Label Text="Cart Coming Soon" VerticalOptions="Center" HorizontalOptions="Center" />
+</ContentPage>
