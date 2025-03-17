@@ -17,11 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GroceryStoreSimulator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< Updated upstream
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+38491e94f6956719923c769221b1d7b4b9addf2a")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+aa7119db7d4370d9df399d02a69c8617efe3cd7b")]
->>>>>>> Stashed changes
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+f3d3e715b305f1546bd2421f368b6612ba8277dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("GroceryStoreSimulator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GroceryStoreSimulator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
