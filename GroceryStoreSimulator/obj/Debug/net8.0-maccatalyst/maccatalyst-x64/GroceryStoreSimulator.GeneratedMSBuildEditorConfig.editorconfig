@@ -16,12 +16,15 @@ build_property.ProjectDir = D:\git\GroceryStoreSimulator\GroceryStoreSimulator-C
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
+<<<<<<< Updated upstream
 [D:/git/GroceryStoreSimulator/GroceryStoreSimulator-CSC317-2025/GroceryStoreSimulator/AislePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = GroceryStoreSimulator.AislePage.xaml
 build_metadata.AdditionalFiles.TargetPath = AislePage.xaml
 build_metadata.AdditionalFiles.RelativePath = AislePage.xaml
 
+=======
+>>>>>>> Stashed changes
 [D:/git/GroceryStoreSimulator/GroceryStoreSimulator-CSC317-2025/GroceryStoreSimulator/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = GroceryStoreSimulator.App.xaml
@@ -34,24 +37,30 @@ build_metadata.AdditionalFiles.ManifestResourceName = GroceryStoreSimulator.AppS
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
+<<<<<<< Updated upstream
 [D:/git/GroceryStoreSimulator/GroceryStoreSimulator-CSC317-2025/GroceryStoreSimulator/CartPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = GroceryStoreSimulator.CartPage.xaml
 build_metadata.AdditionalFiles.TargetPath = CartPage.xaml
 build_metadata.AdditionalFiles.RelativePath = CartPage.xaml
 
+=======
+>>>>>>> Stashed changes
 [D:/git/GroceryStoreSimulator/GroceryStoreSimulator-CSC317-2025/GroceryStoreSimulator/HomePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = GroceryStoreSimulator.HomePage.xaml
 build_metadata.AdditionalFiles.TargetPath = HomePage.xaml
 build_metadata.AdditionalFiles.RelativePath = HomePage.xaml
 
+<<<<<<< Updated upstream
 [D:/git/GroceryStoreSimulator/GroceryStoreSimulator-CSC317-2025/GroceryStoreSimulator/ItemPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = GroceryStoreSimulator.ItemPage.xaml
 build_metadata.AdditionalFiles.TargetPath = ItemPage.xaml
 build_metadata.AdditionalFiles.RelativePath = ItemPage.xaml
 
+=======
+>>>>>>> Stashed changes
 [D:/git/GroceryStoreSimulator/GroceryStoreSimulator-CSC317-2025/GroceryStoreSimulator/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = GroceryStoreSimulator.Resources.Styles.Colors.xaml
