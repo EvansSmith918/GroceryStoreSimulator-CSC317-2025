@@ -1,0 +1,3 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui" x:Class="GroceryStoreSimulator.HomePage">
+    <Label Text="Welcome to the Grocery Store Simulator" VerticalOptions="Center" HorizontalOptions="Center" />
+</ContentPage>

@@ -1,0 +1,8 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui" x:Class="GroceryStoreSimulator.SettingsPage">
+    <StackLayout Padding="20">
+        <Entry x:Name="NameEntry" Placeholder="Enter your name" />
+        <Entry x:Name="CashEntry" Placeholder="Cash in hand" Keyboard="Numeric" />
+        <Switch x:Name="DarkModeSwitch" Toggled="OnDarkModeToggled" />
+        <Label Text="Dark Mode" />
+    </StackLayout>
+</ContentPage>
